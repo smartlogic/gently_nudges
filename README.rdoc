@@ -2,6 +2,7 @@
 
 gently_nudges is a javascript script that can be included in the template of any site.  It performs user agent detection and "gently nudges" the user if they're not using the latest version of their browser.  It does not ask them to change from IE to Firefox, but instead asks them to upgrade from IE6 to IE7.
 
+
 == Copyright
 
 Copyright (c) 2009 John Trupiano. See LICENSE for details.
